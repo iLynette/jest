@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Learning TDD",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^26.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLynette/jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLynette/jest/issues"
+  },
+  "homepage": "https://github.com/iLynette/jest#readme"
+}
